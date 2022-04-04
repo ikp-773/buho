@@ -2,7 +2,7 @@
 
 ![Platform Support](https://img.shields.io/badge/platform-android-green)
 ![GitHub top language](https://img.shields.io/github/languages/top/MeetPatel41011/smart_shop)
-
+[![wakatime](https://wakatime.com/badge/github/ikp-773/Buho.svg)](https://wakatime.com/badge/github/ikp-773/Buho)
 
 The Indian economy heavily relies on its medium and small scale vendors -or *the MSME Sector*. A dominant class in the market, the importance of this sector is cemented by the recent investments done in it by the Government of India to ease the pandemic stricken class of the largest vendors, merchants and small scale industries and businesses. 
 
